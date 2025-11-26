@@ -105,26 +105,5 @@ dist
 # TernJS port file
 .tern-port
 
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# VS Code
-.vscode/
-*.code-workspace
-
-# IDEs
-.idea/
-*.swp
-*.swo
-*~
-
-# Temporary files
-*.tmp
-*.temp
+# MacOS Folder
+/.DS_store
