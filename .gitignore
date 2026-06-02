@@ -128,3 +128,6 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
+
+# MacOS Folder
+/.DS_store
